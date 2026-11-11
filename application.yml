@@ -49,9 +49,6 @@ spring:
     virtual:
       enabled: true
 
-vault:
-  master-key: NqcfbJG1zkOfBsNF/wPmlLA7aaOvh9RCHTYYgY/9A2Q=
-
 payment:
   simulator:
     poll-interval-ms: 5000
