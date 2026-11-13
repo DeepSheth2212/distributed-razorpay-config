@@ -98,12 +98,6 @@ eureka:
     prefer-ip-address: true
     hostname: localhost
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: health,info
-
 logging:
   level:
     org.apache.kafka.clients: WARN
